@@ -3,7 +3,7 @@
 ---
 #### Find me online
 
- <a href="https://www.linkedin.com/in/justinchisholm/">
+ <a href="https://www.linkedin.com/in/justin-chisholm/">
     <img src="resources/linkedin.svg" alt="linkedIn" style="vertical-align:top margin:6px 4px">
   </a>
 
