@@ -1,4 +1,4 @@
-## Hi I'm Justin Chisholm, Cape Town 🇿🇦 based, Dependable, Customer focused, ISTQB® certified Software Tester.
+## Hi I'm Justin Chisholm, Cape Town 🇿🇦 based, Dependable, Customer focused, ISTQB® certified Senior Software Tester.
 
 ---
 #### Find me online
